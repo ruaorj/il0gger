@@ -26,3 +26,21 @@ You are free to explore, modify, or extend the project for learning purposes. Ha
 And then you'll notice that... the texts are collected in file.txt.
 
 <img width="1920" height="1080" alt="Screenshot_20251225_043425" src="https://github.com/user-attachments/assets/142a39df-6c22-4870-81fb-a2cdacdf8830" />
+
+# Step 5
+5. Go to the website you created
+<img width="1867" height="1080" alt="Screenshot_20251225_025903" src="https://github.com/user-attachments/assets/2036b836-8d4d-40f8-93ed-243b47f909b7" />
+
+Click on the "the watcher" text that I've hidden, and watch as the file.txt files are displayed here every 5 minutes.
+
+<img width="1867" height="1080" alt="Screenshot_20251225_043511" src="https://github.com/user-attachments/assets/98708ba0-93b4-416f-9cc4-97c1d351d5cb" />
+
+# Step 6
+6. View file.txt
+<img width="1867" height="1080" alt="Screenshot_20251225_043956" src="https://github.com/user-attachments/assets/157b5c5b-8bae-48cd-9bfd-c20e9ffce5b8" />
+
+### Find Me on
+<a href="https://linktr.ee/Mass4cre_P0int" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
+<a href="https://github.com/ruaorj" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
+
+
