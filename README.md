@@ -20,8 +20,8 @@ You are free to explore, modify, or extend the project for learning purposes. Ha
 <img width="1920" height="1080" alt="Screenshot_20251225_025956" src="https://github.com/user-attachments/assets/600adc31-954b-4905-9b40-c30ade20b2f6" />
 
 # Step 4
-4.Then enter some text <img width="1920" height="735" alt="Screenshot_20251225_043323" src="https://github.com/user-attachments/assets/c129f7ea-ab3f-4dd9-95d4-254db4a2b136" />
+4.Then enter some text 
+<img width="1920" height="735" alt="Screenshot_20251225_043323" src="https://github.com/user-attachments/assets/c129f7ea-ab3f-4dd9-95d4-254db4a2b136" />
 
 And then you'll notice that... the texts are collected in file.txt.
-
 <img width="1920" height="1080" alt="Screenshot_20251225_043425" src="https://github.com/user-attachments/assets/142a39df-6c22-4870-81fb-a2cdacdf8830" />
