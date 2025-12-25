@@ -11,3 +11,5 @@ You are free to explore, modify, or extend the project for learning purposes. Ha
 1. Put the html folder on your hosting server.
 <img width="1867" height="1079" alt="Screenshot_20251225_044434" src="https://github.com/user-attachments/assets/cfe0ef90-a173-49fa-a276-7b1e371f3b15" />
 # Step 2
+2. Add your ftp credentials to il0gger.py
+<img width="383" height="114" alt="Screenshot_20251225_030013" src="https://github.com/user-attachments/assets/2c423af9-a2a1-46ea-94f7-84d326bef77f" />
