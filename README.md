@@ -7,6 +7,7 @@ Any malicious or illegal use of this software is strictly prohibited. The develo
 You are free to explore, modify, or extend the project for learning purposes. Hav3fun!
 
 # How to use
-
-<img width="1867" height="1079" alt="Screenshot_20251225_044434" src="https://github.com/user-attachments/assets/cfe0ef90-a173-49fa-a276-7b1e371f3b15" />
+# Step 1
 1. Put the html folder on your hosting server.
+<img width="1867" height="1079" alt="Screenshot_20251225_044434" src="https://github.com/user-attachments/assets/cfe0ef90-a173-49fa-a276-7b1e371f3b15" />
+# Step 2
